@@ -1,4 +1,4 @@
-![pizzaprise](pizzaprise.jpg)
+![pizzaprise](./pizzaprise.jpg)
 
 
 
