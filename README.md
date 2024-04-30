@@ -6,3 +6,4 @@ These are the things I'm interested in as a programmer and designer.
 
 [sethvincent.com](https://sethvincent.com)
 | [@sdv@hachyderm.io](https://hachyderm.io/@sdv)
+| [sethvincent.bsky.social](https://bsky.app/profile/sethvincent.bsky.social)
